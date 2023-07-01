@@ -1,3 +1,7 @@
+
+![1](https://github.com/akhilesh-patel/Ansible-GitHub-docker-AWS-EC2/assets/64592542/29eda64f-e9e0-4501-b813-edb3e7ff391f)
+
+
 # Deploy Maven project with docker container on AWS EC2 Machine. PART-2
 
 # Step 1: Create ubuntu machine on aws.
